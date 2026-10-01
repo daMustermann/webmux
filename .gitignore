@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+
+# The browser profile holds live session cookies — never commit it.
+profile/
+*.profile/
+auth.json
